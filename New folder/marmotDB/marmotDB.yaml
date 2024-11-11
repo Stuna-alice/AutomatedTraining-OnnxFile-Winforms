@@ -1,0 +1,10 @@
+
+train: ../marmotDB/images/train/
+val: ../marmotDB/images/val/
+
+# Classes
+nc: 1
+
+names: ['marmot']
+
+ 
